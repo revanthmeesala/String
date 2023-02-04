@@ -1,4 +1,4 @@
-public class StringCharat {
+public class StringAssignment {
     public static void main(String[] args) {
         char s1[]={'r','e','v','a','n','t','h' };
         System.out.println(s1);
